@@ -13,4 +13,4 @@
 Lets connect
 📍 Houston, TX (Fall ‘22)
 📧: [alisa.akaya@gmail.com](mailto:alisa.akaya@gmail.com)
-🌐: [https://alisaakaya.me](https://alisaakaya.me/)
+🌐: [https://alisaakaya.me](https://alisaakaya.me)
