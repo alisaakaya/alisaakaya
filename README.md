@@ -3,7 +3,7 @@
 💡I am a Sophomore at the University of Houston pursuing a B.S. in Computer Science. I'm a computer science student and artist based in Houston. I have great interest in full-stack development, artificial intelligence, human-computer interactions, and everything in between.
 
 👩🏽‍💻 Currently Working on:
-+ Building my portfolio website @ [https://alisaaakaya.me](https://alisaaakaya.me/)
++ Building my portfolio website @ [https://alisaakaya.me](https://alisaakaya.me)
 + FEB President@NSBE Houston
 + CS-Girls Professional Committee Member
 + NSBE Membership X Marketing Committee Member
