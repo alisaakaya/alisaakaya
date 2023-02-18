@@ -4,6 +4,7 @@
 
 👩🏽‍💻 Currently Working on: 
 + Building my portfolio website @ https://alisaakaya.me
++ Working on Software Engineering for Nkọwa okwu
 + Working on UI/UX for Nkọwa okwu
 + FEB President @ UH NSBE
 + ColorStack & Rewriting The Code Member
