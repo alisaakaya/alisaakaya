@@ -13,6 +13,6 @@
 🌱 Love learning and creating platforms that elevate and encouraging young coders in minority communities.
 
 Lets connect
-📍 Houston, TX (Fall ‘22)
+📍 Houston, TX (Spring '24)
 📧: [alisa.akaya@gmail.com](mailto:alisa.akaya@gmail.com)
 🌐: [https://alisaakaya.me](https://alisaakaya.me)
