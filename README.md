@@ -2,8 +2,6 @@
 
 💡I am a Sophomore at the University of Houston pursuing a Bachelor's of Information Systems. I am a student and artist based in Houston. I am a self-motivated coder with great interest in full-stack development, artificial intelligence, human-computer interactions, and everything in between.
 
-I enjoy learning and creating platforms that elevate and encouraging young coders in minority communities.
-
 👩🏽‍💻 Currently Working on: 
 + Developing consulting case studies @ BVCC
 + Apple Pathways Alliance Scholar
