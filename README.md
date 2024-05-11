@@ -15,4 +15,5 @@ I enjoy learning and creating platforms that elevate and encouraging young coder
 🌱 Love learning and creating platforms that elevate and encouraging young coders in minority communities.
 
 Let's connect! 🔗
+
 Austin, TX (Summer '24) | [alisa.akaya@gmail.com](mailto:alisa.akaya@gmail.com)
