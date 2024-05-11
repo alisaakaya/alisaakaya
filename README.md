@@ -1,6 +1,8 @@
-👋🏽Hello, I'm Lisa!
+👋🏽 Hi! I'm Lisa! An incoming Information Systems & Technology (IS&T) Engineering Intern @ Apple
 
 💡I am a Sophomore at the University of Houston pursuing a Bachelor's of Information Systems. I am a student and artist based in Houston. I am a self-motivated coder with great interest in full-stack development, artificial intelligence, human-computer interactions, and everything in between.
+
+I enjoy learning and creating platforms that elevate and encouraging young coders in minority communities.
 
 👩🏽‍💻 Currently Working on: 
 + Developing consulting case studies @ BVCC
@@ -12,7 +14,5 @@
 
 🌱 Love learning and creating platforms that elevate and encouraging young coders in minority communities.
 
-Lets connect
-📍 Houston, TX (Spring '24)
-📧: [alisa.akaya@gmail.com](mailto:alisa.akaya@gmail.com)
-🌐: [https://alisaakaya.me](https://alisaakaya.me)
+Let's connect! 🔗
+Austin, TX (Summer '24) | [alisa.akaya@gmail.com](mailto:alisa.akaya@gmail.com)
