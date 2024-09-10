@@ -8,7 +8,6 @@
 + Deloitte Foundation Scholar
 + Expanding my experience in a Product Discovery Intern @ Paragon One
 + Vice President @ UH NSBE
-+ Building my portfolio website @ https://www.alisaakaya.me
 
 🌱 Love learning and creating platforms that elevate and encouraging young coders in minority communities.
 
