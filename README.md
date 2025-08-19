@@ -5,6 +5,4 @@
 👩🏽‍💻 Currently Working on: 
 + SWE Intern @ Apple
 
-Let's connect! 🔗
-
 Austin, TX (Summer '25) | [alisa.akaya@gmail.com](mailto:alisa.akaya@gmail.com)
