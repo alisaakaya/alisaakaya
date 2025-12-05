@@ -5,4 +5,4 @@
 👩🏽‍💻 Currently Working on: 
 + SWE Intern @ Apple
 
-Hosuton, TX (Spring '26) | [alisa.akaya@gmail.com](mailto:alisa.akaya@gmail.com)
+Houston, TX (Spring '26) | [alisa.akaya@gmail.com](mailto:alisa.akaya@gmail.com)
