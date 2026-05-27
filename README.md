@@ -1,4 +1,5 @@
-👋🏽 Hi! I'm Lisa!
+## 👋🏽 Hi! I'm Lisa!
+---
 
 🎓 School: BS in Computer Information Systems @ the University of Houston (c/o 2026)
 
