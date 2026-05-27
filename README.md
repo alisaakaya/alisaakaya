@@ -1,8 +1,8 @@
 👋🏽 Hi! I'm Lisa!
 
-💡I am a Senior at the University of Houston pursuing a Bachelor's of Computer Information Systems. I am a self-motivated coder with great interest in full-stack development, devops, artificial intelligence, human-computer interactions, and everything in between.
+🎓 School: BS in Computer Information Systems @ the University of Houston (c/o 2026)
+💡 I am a self-motivated coder with great interest in full-stack development, devops, artificial intelligence, human-computer interactions, and everything in between.
+📖 Interests: Combining my love for art with technology
+✨ Fun fact: I enjoy writing and picking up new skills
 
-👩🏽‍💻 Currently Working on: 
-+ SWE Intern @ Apple
-
-Houston, TX (Spring '26) | [alisa.akaya@gmail.com](mailto:alisa.akaya@gmail.com)
+Austin, TX | [alisa.akaya@gmail.com](mailto:alisa.akaya@gmail.com)
